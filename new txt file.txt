@@ -1,0 +1,20 @@
+1   pip3  install beautifulsoup4
+2   pip3  install lxml
+
+3 pip3 install pyqt5
+4 pip3 install --upgrade pip   升级pip3
+5 pip3 install jupyter  安装jupyter
+
+6 jupyter notebook 启动jupyter
+
+7 jupyter notebook -h   查看官方帮助文档
+
+8 http://localhost:8888  jupyter在本机上的地址
+
+
+
+安装pip
+
+sudo apt update
+
+sudo apt install python3-pippip
